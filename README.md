@@ -84,12 +84,6 @@ With expertise in modern frameworks, AI/ML tooling, and a keen eye for design, I
 | **TTS / Audio ML** | Kokoro-82M, multi-model TTS routing |
 | **Content Pipelines** | Audiobook & novel generation, serialized content |
 
-### 🏗️ Featured AI Projects
-
-- **[Street Coder Pipeline](https://github.com/streetcoderxyz)** — Go-based orchestrator connecting Claude, Notion & GitHub via MCP, with SQLite FTS5 for local doc search
-
----
-
 ## 🚀 Services Powered Up for Your Business
 
 **Custom Software, Web Design, and Tech Solutions — Ready to Play**
